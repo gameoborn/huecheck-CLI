@@ -1,0 +1,11 @@
+# Generated huecheck output
+huecheck-capture.ansi
+huecheck-report.html
+
+# Python build and test artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
