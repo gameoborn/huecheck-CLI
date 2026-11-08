@@ -1,6 +1,6 @@
-# huecheck
+# huecheck CLI
 
-`huecheck` runs a command in a pseudo-terminal, captures its raw ANSI output, and checks foreground/background contrast across 20 bundled terminal themes. It can also inspect an ANSI capture saved to disk. A self-contained HTML report renders the captured output in each theme and marks low-contrast spans with a wavy underline.
+`huecheck` runs a command in a pseudo-terminal, captures its raw ANSI output, and checks foreground/background contrast across 21 bundled terminal themes. It can also inspect an ANSI capture saved to disk. A self-contained HTML report renders the captured output in each theme and marks low-contrast spans with a wavy underline.
 
 Requires Python 3.10+. Runtime uses only the standard library; pytest is used for tests.
 
