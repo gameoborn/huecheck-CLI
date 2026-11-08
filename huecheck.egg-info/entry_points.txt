@@ -1,0 +1,2 @@
+[console_scripts]
+huecheck = huecheck.cli:main
